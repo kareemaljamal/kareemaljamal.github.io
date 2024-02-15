@@ -12,7 +12,7 @@ $imSettings['general'] = array(
 	'homepage_url' => 'http://localhost/index.html',
 	'icon' => 'http://localhost/favImage.png',
 	'version' => '2021.3.5.0',
-	'sitename' => 'Funnel',
+	'sitename' => 'Dr Kareem Aljamal',
 	'lang_code' => 'en-GB',
 	'public_folder' => '',
 	'salt' => '9z2a5um0e1ta63uamtdny4zq044608p00vih17fl',
@@ -37,8 +37,8 @@ $imSettings['password_policy'] = array(
 |	Captcha
 |-------------------------------
 */ImTopic::$captcha_code = "		<div class=\"x5captcha-wrap\">
-			<label for=\"b4qebwuu-imCpt\">Check word:</label><br />
-			<input type=\"text\" id=\"b4qebwuu-imCpt\" class=\"imCpt\" name=\"imCpt\" maxlength=\"5\" />
+			<label for=\"jy7v7j1d-imCpt\">Check word:</label><br />
+			<input type=\"text\" id=\"jy7v7j1d-imCpt\" class=\"imCpt\" name=\"imCpt\" maxlength=\"5\" />
 		</div>
 ";
 
